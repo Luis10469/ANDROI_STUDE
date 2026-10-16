@@ -1,4 +1,4 @@
-package com.example.fris_projec.ui.theme
+package com.example.firts_proyect.ui.theme
 
 import android.app.Activity
 import android.os.Build
@@ -34,7 +34,7 @@ private val LightColorScheme = lightColorScheme(
 )
 
 @Composable
-fun Fris_projecTheme(
+fun Firts_proyectTheme(
     darkTheme: Boolean = isSystemInDarkTheme(),
     // Dynamic color is available on Android 12+
     dynamicColor: Boolean = true,

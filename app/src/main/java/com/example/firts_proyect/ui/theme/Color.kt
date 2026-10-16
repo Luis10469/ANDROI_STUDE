@@ -1,4 +1,4 @@
-package com.example.fris_projec.ui.theme
+package com.example.firts_proyect.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

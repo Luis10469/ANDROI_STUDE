@@ -4,13 +4,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.fris_projec"
+    namespace = "com.example.firts_proyect"
     compileSdk {
         version = release(37)
     }
 
     defaultConfig {
-        applicationId = "com.example.fris_projec"
+        applicationId = "com.example.firts_proyect"
         minSdk = 30
         targetSdk = 37
         versionCode = 1

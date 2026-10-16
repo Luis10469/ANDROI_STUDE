@@ -1,4 +1,4 @@
-package com.example.fris_projec
+package com.example.firts_proyect
 
 import org.junit.Test
 
